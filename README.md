@@ -26,3 +26,5 @@ characters
 
 I implemented these three operations based on the given input and made them print the necessary
 output.
+
+![B+Tree](https://github.com/beyzacapraz/Ceng351/blob/main/PA2/B+Tree.png?raw=true)
